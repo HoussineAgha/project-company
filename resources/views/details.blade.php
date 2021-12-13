@@ -22,4 +22,3 @@
     @endforelse
 </body>
 @endsection
-
